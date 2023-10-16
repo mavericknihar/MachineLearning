@@ -1,4 +1,4 @@
-An Artificial Neural Network (ANN) is an information processing paradigm that is inspired the brain.
+An Artificial Neural Network (ANN) is an information processing paradigm that is inspired by the human brain.
 
 from joblib.numpy_pickle_utils import xrange
 from numpy import *
