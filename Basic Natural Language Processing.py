@@ -10,6 +10,7 @@ language and speech for a machine.
 '''
 Natural Language Toolkit library is the library which is provided
 by scikit learn to do NLP on datasets.
+We can also use Tensorflow for this purpose.
 
 '''
 import pandas as pd #importing pandas to read dataset.
